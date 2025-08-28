@@ -40,7 +40,7 @@
   * Responsável pela comunicação com o banco de dados
   * Usa o Spring Data JPA para consultas e persistência
 
-## Funcionalidade
+## 🛠️ Funcionalidades
 ### CRUD MARCAS  
 <img width="770" height="798" alt="image" src="https://github.com/user-attachments/assets/87923920-50d7-4904-8e0b-b4a652324c28" />  <br/>
 ### CRUD MODELOS ManyToOne MARCAS   
